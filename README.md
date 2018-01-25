@@ -1,1 +1,2 @@
 # Numerical_Methods
+In this repo you will find programs written in C, that will help you solve some problems numerically, like finding the solution of a linear system, finding the absolute greatest eigen value from a matrix and some more. These programs where written during the elective course of Numerical Analysis in the 6th semester of my undergraduate studies in the Physics department in the Aristotle University of Thessaloniki. There is a guide for each method in the corresponding folder along with the C source code file.
